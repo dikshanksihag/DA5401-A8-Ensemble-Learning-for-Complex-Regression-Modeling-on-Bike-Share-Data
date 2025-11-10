@@ -99,7 +99,7 @@ Ensemble learning leverages diversity among base models to achieve more stable p
 
 ### Stacking Advantages
 Stacking combines the diversity of Random Forest and Gradient Boosting, improving predictions through meta-learning.  
-This ensemble demonstrated the lowest RMSE and highest R².
+This ensemble demonstrated the lowest RMSE.
 
 ### Practical Implication
 For real-world demand forecasting where both **trend** and **random effects** exist, stacking provides resilience against temporal and weather variability.
