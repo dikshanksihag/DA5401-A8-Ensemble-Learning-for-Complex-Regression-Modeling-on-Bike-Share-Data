@@ -85,7 +85,8 @@ Ensemble learning leverages diversity among base models to achieve more stable p
 | **Gradient Boosting Regressor** | Sequential Ensemble (Bias Reduction via Residual Learning)         | 64.482      | 4156.360    |
 | **Stacking Regressor**          | Meta-Ensemble (KNN + Bagging + GB → Ridge Meta-Learner)            | 61.763      | 3813.945    |
 
-![Uploading {6C9967A1-6541-4DEB-B0F1-35ABA64EBFFF}.png…]()
+<img width="824" height="590" alt="image" src="https://github.com/user-attachments/assets/52e6a680-ef34-45a2-ab9b-2699e2338daf" />
+
 
 
 > Ensemble learners (C–E) outperform baselines, with **Stacking** offering best balance of bias–variance and generalization.
