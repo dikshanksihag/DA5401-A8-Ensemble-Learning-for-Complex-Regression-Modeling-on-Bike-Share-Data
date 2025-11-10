@@ -79,7 +79,7 @@ Ensemble learning leverages diversity among base models to achieve more stable p
 
 | Model                           | Description / Composition                                          | RMSE       | Variance   |
 |---------------------------------|--------------------------------------------------------------------|------------:|------------:|
-| **Decision Tree (Baseline)**    | Single Decision Tree (max_depth=6)                                 | 188.456     | 14027.081   |
+| **Decision Tree (Baseline)**    | Single Decision Tree (max_depth=6)                                 | 118.456     | 14027.081   |
 | **Linear Regression (Baseline)**| Ordinary Least Squares Linear Regression                           | 100.446     | 10071.428   |
 | **Bagging Regressor**           | Ensemble of Decision Trees (Bootstrap Aggregation)                 | 112.350     | 12617.702   |
 | **Gradient Boosting Regressor** | Sequential Ensemble (Bias Reduction via Residual Learning)         | 64.482      | 4156.360    |
