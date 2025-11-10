@@ -22,7 +22,7 @@ Models compared:
 - Model D: Gradient Boosting Regressor  
 - Model E: Stacking Regressor (meta-model ensemble)
 
-Performance was measured with **Mean Absolute Error (MAE)**, and **Root Mean Squared Error (RMSE)**.
+Performance was measured with **Root Mean Squared Error (RMSE)**.
 
 Results show ensemble models significantly outperform single estimators, with **Stacking and Gradient Boosting** achieving the highest predictive power. Bagging (Random Forest) also improved generalization and reduced overfitting.
 
