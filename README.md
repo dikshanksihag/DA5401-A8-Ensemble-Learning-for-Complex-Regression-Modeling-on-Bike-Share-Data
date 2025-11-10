@@ -7,7 +7,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1.3%2B-green)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
